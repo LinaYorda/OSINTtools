@@ -1,5 +1,4 @@
 
-
 # Social Media OSINTtools
 
 Here are some tools that you can use for Social Media OSINT.
@@ -10,6 +9,7 @@ Here are some tools that you can use for Social Media OSINT.
 * [Maltego](https://www.maltego.com) : Graphical link analyses (free and paid version).
 * [LookUp Id](https://lookup-id.com) : Search for Facebook ID for your profile or a group.
 * [Who Posted What](https://whopostedwhat.com) : Non public Facebook keyword search on specific dates.
+* [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) : Automates social media interactions(paid version).
 
 ## Twitter
 
@@ -30,6 +30,10 @@ Here are some tools that you can use for Social Media OSINT.
 * [Instadp](https://www.instadp.com) : Downloader Tool for Instagram.
 * [Instahunter](https://github.com/Araekiel/instahunter) : Fetch data from Instagram's Web API without login.
 * [Osintgram](https://github.com/Datalux/Osintgram) : Perform analysis on Instagram account of any users by its nickname.
+* [Instaloctrack](https://github.com/bernsteining/InstaLocTrack) : scrape geotagged locations - output in JSON & interactive map. 
+* [Instagram Scraperk](https://github.com/arc298/instagram-scraperk) : scrapes and downloads an instagram user's photos and videos. 
+* [Instaloader](https://github.com/instaloader/instaloader) : downloads photos, videos, hashtags, stories.
+* [Sterraxcyl](https://github.com/instaloader/instaloader) : informations on an instagram account from its following & followers. 
 
 ## Snapchat 
 
