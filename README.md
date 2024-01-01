@@ -10,6 +10,7 @@ Here are some tools that you can use for Social Media OSINT.
 * [LookUp Id](https://lookup-id.com) : Search for Facebook ID for your profile or a group.
 * [Who Posted What](https://whopostedwhat.com) : Non public Facebook keyword search on specific dates.
 * [Ultimate Facebook Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) : Automates social media interactions(paid version).
+* [GraphTips](https://graph.tips/beta/) : Search for people, posts, pages, events etc.
 
 ## Twitter
 
