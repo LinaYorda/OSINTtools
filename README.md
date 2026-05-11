@@ -23,6 +23,7 @@ Here are some tools that you can use for Social Media OSINT.
 * [Account Analysis](https://accountanalysis.app) : Evaluate and analyse Twitter profiles (free and paid version).
 * [Spoonbill](http://spoonbill.io) : See profile changes on Twitter (you need login).
 * [Twint](https://github.com/twintproject/twint) : Twitter Intelligence Tool.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) : X/Twitter API and MCP skill for tweet search, profile tweets, follower export, media download, monitors, and webhooks (API key required).
 
 ## Instagram
 
