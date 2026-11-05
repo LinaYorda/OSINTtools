@@ -49,3 +49,4 @@ Here are some tools that you can use for Social Media OSINT.
 
 * [TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper) : Scrape and download information from Tiktok. 
 * [Vidnice](https://vidnice.com) : Browse TikTok content. 
+* [TKMetrics](https://tkmetrics.com/) : Public TikTok creator stats, hashtag trends and earnings estimates.
